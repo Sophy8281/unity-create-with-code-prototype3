@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: cda6e7747c077384b8fa446c79a4aa57
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - explosionParticle: {instanceID: 0}
+  - dirtParticle: {instanceID: 0}
+  - jumpSound: {instanceID: 0}
+  - crashSound: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
